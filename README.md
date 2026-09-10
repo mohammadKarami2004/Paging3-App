@@ -25,7 +25,6 @@ A focused Android app that loads paginated product data from the [DummyJSON](htt
 ```bash
 git clone https://github.com/<your-username>/paging3-products.git
 ```
-Open in Android Studio and run — no API key required.
 
 ## 🇮🇷 فارسی
 
@@ -36,7 +35,7 @@ Open in Android Studio and run — no API key required.
 ```bash
 git clone https://github.com/<your-username>/paging3-products.git
 ```
-پروژه رو توی Android Studio باز کن و اجرا کن — نیازی به کلید API نیست.
+
 
 ---
 
